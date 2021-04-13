@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ashishdotme-assets.s3.ap-south-1.amazonaws.com/logo.png" alt="drawing" width="100"/>
+  <img src="https://ashishdotme-books.s3.ap-south-1.amazonaws.com/logo.png" alt="drawing" width="100"/>
 </p>
 
 <h2 align="center">springboot-api-starter</h2>
